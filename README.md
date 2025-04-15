@@ -1,1 +1,1 @@
-# literate-adventure
+# literate-adventures
